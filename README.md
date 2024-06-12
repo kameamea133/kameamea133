@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kameamea133
+- 👋 Hi, I’m Stephane
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m Web Developer Javascript Full stack
+
 
 <!---
 kameamea133/kameamea133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
