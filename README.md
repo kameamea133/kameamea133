@@ -26,7 +26,7 @@ Curieux, autonome et passionné, je cherche à rejoindre des projets concrets po
 
 ## 📁 Projets récents
 
-### 🌿 Étreintes Éphémères — [en cours](#)
+### 🌿 Étreintes Éphémères => (https://www.etreintes-ephemeres.com/)
 *Application web de création et de partage de poèmes et de prose.*  
 > React, Redux Toolkit, Firebase Auth, Cloudinary  
 🔸 Authentification, CRUD, design épuré, responsive
