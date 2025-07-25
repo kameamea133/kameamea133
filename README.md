@@ -1,22 +1,11 @@
-# <img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="icon" width="40" /> Stéphane Monnier
- 
+# 👨‍💻 Stéphane Monnier
 
- <sapn><img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" alt="icon" width="30" /></span>  Développeur JavaScript Full Stack  
- <img src="https://i.postimg.cc/qqT03W8n/pingle-de-carte-rouge-3-D-removebg-preview.png" alt="icon" width="30" /> Paris, France | 📧 kameamea133@gmail.com 
-
-
-
-
-<div align="center">
-  <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" width="50" />
-  <p><strong>À propos de moi</strong></p>
-</div>
-
-
+🎯 Développeur JavaScript Full Stack  
+📍 Paris, France | 📧 kameamea133@gmail.com | 📱 +33 7 77 30 34 06  
 
 ---
 
-## <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" alt="icon" width="50" /> À propos de moi
+## 🚀 À propos de moi
 
 Développeur full stack diplômé de [La Capsule](https://www.lacapsule.academy/), je conçois des applications web modernes, scalables et élégantes.  
 Mon stack de prédilection : **React / Next.js / Node.js / MongoDB**.
@@ -37,7 +26,7 @@ Curieux, autonome et passionné, je cherche à rejoindre des projets concrets po
 
 ## 📁 Projets récents
 
-### 🌿 Étreintes Éphémères => (https://www.etreintes-ephemeres.com/)
+### 🌿 Étreintes Éphémères => (www.etreintes-ephemeres.com/)
 *Application web de création et de partage de poèmes et de prose.*  
 > React, Redux Toolkit, Firebase Auth, Cloudinary  
 🔸 Authentification, CRUD, design épuré, responsive
@@ -70,7 +59,7 @@ Technos : HTML, CSS, JavaScript, React, Redux, Next.js, TypeScript, Node.js, Exp
 ## 🌐 Liens
 
 - [Mon GitHub](https://github.com/kameamea133)
-- [LinkedIn](https://www.linkedin.com/in/stephane-monnier/) 
+- [LinkedIn](https://www.linkedin.com/in/stephane-monnier/)
 
 ---
 
@@ -83,7 +72,7 @@ Littérature • Sports • Informatique créative
 ## 📫 Contact
 
 Tu veux collaborer ou discuter d’un projet ?  
-👉 **kameamea133@gmail.com** 
+👉 **kameamea133@gmail.com** | 📞 **+33 7 77 30 34 06**
 
 ---
 
