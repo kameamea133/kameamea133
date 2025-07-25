@@ -4,6 +4,22 @@
  <sapn><img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" alt="icon" width="30" /></span>  Développeur JavaScript Full Stack  
  <img src="https://i.postimg.cc/qqT03W8n/pingle-de-carte-rouge-3-D-removebg-preview.png" alt="icon" width="30" /> Paris, France | 📧 kameamea133@gmail.com 
 
+ <table>
+  <tr>
+    <td><img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="Stéphane Monnier" width="40"/></td>
+    <td><h1>Stéphane Monnier</h1></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" alt="Développeur Fullstack" width="26"/></td>
+    <td>Développeur JavaScript Full Stack</td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/qqT03W8n/pingle-de-carte-rouge-3-D-removebg-preview.png" alt="Localisation" width="26"/></td>
+    <td>Paris, France | 📧 <a href="mailto:kameamea133@gmail.com">kameamea133@gmail.com</a></td>
+  </tr>
+</table>
+
+
 ---
 
 ## 🚀 À propos de moi
