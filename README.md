@@ -1,4 +1,4 @@
-# <img src="https://chatgpt.com/s/m_6883ec0a9d388191871a79d1b834fca2" alt="icon" width="40" />
+# <img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="icon" width="40" />
  Stéphane Monnier
 
 🎯 Développeur JavaScript Full Stack  
