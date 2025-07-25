@@ -4,12 +4,15 @@
  <sapn><img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" alt="icon" width="30" /></span>  Développeur JavaScript Full Stack  
  <img src="https://i.postimg.cc/qqT03W8n/pingle-de-carte-rouge-3-D-removebg-preview.png" alt="icon" width="30" /> Paris, France | 📧 kameamea133@gmail.com 
 
- <table>
+<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" width="26"/></td>
-    <td>Développeur JavaScript Full Stack</td>
+    <td style="border: none; padding: 0 8px 0 0;">
+      <img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" width="26"/>
+    </td>
+    <td style="border: none; padding: 0;">Développeur JavaScript Full Stack</td>
   </tr>
 </table>
+
 
 
 
