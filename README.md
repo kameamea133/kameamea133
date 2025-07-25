@@ -1,7 +1,7 @@
-# <img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="icon" width="30" /> Stéphane Monnier
+# <img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="icon" width="40" /> Stéphane Monnier
  
 
-🎯  <img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="icon" width="30" /> Développeur JavaScript Full Stack  
+ <img src="https://i.postimg.cc/FRF7LdNN/cible-icon-3-D.png" alt="icon" width="30" /> Développeur JavaScript Full Stack  
 📍 Paris, France | 📧 kameamea133@gmail.com 
 
 ---
