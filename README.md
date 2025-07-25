@@ -1,7 +1,7 @@
 # <img src="https://i.postimg.cc/8PZwJMGP/github-icon-profile.png" alt="icon" width="40" /> Stéphane Monnier
  
 
- <img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" alt="icon" width="30" style="vertical-align: middle; margin-right: 6px;" /> Développeur JavaScript Full Stack  
+ <img src="https://i.postimg.cc/zf2VTDBh/cible-icon-3-D-removebg-preview.png" alt="icon" width="30" style="vertical-align: middle; margin-right: 26px;" /> Développeur JavaScript Full Stack  
  <img src="https://i.postimg.cc/qqT03W8n/pingle-de-carte-rouge-3-D-removebg-preview.png" alt="icon" width="30" /> Paris, France | 📧 kameamea133@gmail.com 
 
 ---
