@@ -7,12 +7,16 @@
 
 
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" alt="icon" width="50" />
+  <p style="margin: 0; font-size: 1.2rem;"><strong>À propos de moi</strong></p>
+</div>
 
 
 
 ---
 
-## <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" alt="icon" width="50" style="position: relative; bottom: -4px;" /> À propos de moi
+## <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" alt="icon" width="50" /> À propos de moi
 
 Développeur full stack diplômé de [La Capsule](https://www.lacapsule.academy/), je conçois des applications web modernes, scalables et élégantes.  
 Mon stack de prédilection : **React / Next.js / Node.js / MongoDB**.
