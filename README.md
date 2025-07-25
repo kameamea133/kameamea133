@@ -1,11 +1,11 @@
 # 👨‍💻 Stéphane Monnier
 
 🎯 Développeur JavaScript Full Stack  
-📍 Paris, France | 📧 kameamea133@gmail.com | 📱 +33 7 77 30 34 06  
+📍 Paris, France | 📧 kameamea133@gmail.com  
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Développeur full stack diplômé de [La Capsule](https://www.lacapsule.academy/), je conçois des applications web modernes, scalables et élégantes.  
 Mon stack de prédilection : **React / Next.js / Node.js / MongoDB**.
@@ -14,7 +14,7 @@ Curieux, autonome et passionné, je cherche à rejoindre des projets concrets po
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 - **Frontend** : React, React Native, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Flutter  
 - **Backend** : Node.js, Express.js, MongoDB, Mongoose  
@@ -26,7 +26,7 @@ Curieux, autonome et passionné, je cherche à rejoindre des projets concrets po
 
 ## 📁 Projets récents
 
-### 🌿 Étreintes Éphémères => (www.etreintes-ephemeres.com/)
+### 🌿 Étreintes Éphémères => (www.etreintes-ephemeres.com)
 *Application web de création et de partage de poèmes et de prose.*  
 > React, Redux Toolkit, Firebase Auth, Cloudinary  
 🔸 Authentification, CRUD, design épuré, responsive
@@ -72,7 +72,7 @@ Littérature • Sports • Informatique créative
 ## 📫 Contact
 
 Tu veux collaborer ou discuter d’un projet ?  
-👉 **kameamea133@gmail.com** | 📞 **+33 7 77 30 34 06**
+👉 **kameamea133@gmail.com**
 
 ---
 
