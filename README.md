@@ -1,4 +1,5 @@
-# 👨‍💻 Stéphane Monnier
+# <img src="https://chatgpt.com/s/m_6883ec0a9d388191871a79d1b834fca2" alt="icon" width="40" />
+ Stéphane Monnier
 
 🎯 Développeur JavaScript Full Stack  
 📍 Paris, France | 📧 kameamea133@gmail.com 
