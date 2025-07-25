@@ -7,9 +7,9 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" alt="icon" width="50" />
-  <p style="margin: 0; font-size: 1.2rem;"><strong>À propos de moi</strong></p>
+<div align="center">
+  <img src="https://i.postimg.cc/P56PGbDZ/Carte-bleue-avec-bulle-orange-et-personnage-removebg-preview.png" width="50" />
+  <p><strong>À propos de moi</strong></p>
 </div>
 
 
